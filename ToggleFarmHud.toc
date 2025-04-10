@@ -1,5 +1,6 @@
 ## Interface: 110105
 ## Title: Toggle Farm Hud
+## Version: 1.0
 ## Author: Pav_Sg (Pav)
 
 ToggleFarmHud.lua
