@@ -2,7 +2,7 @@
 
 LUA WoW addon.
 
-[Published site |==>](https://www.curseforge.com/wow/addons/toggle-farm-hud)
+[Published on CurseForge |==>](https://www.curseforge.com/wow/addons/toggle-farm-hud)
 
 ### `Description`
 Auto toggle "Farm Hud" upon login.
